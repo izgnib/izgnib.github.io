@@ -1,0 +1,259 @@
+{
+    "message": "success",
+    "data": {
+        "sections": [
+            [
+                {
+                    "grey_text": "",
+                    "icons": {
+                        "day": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                }
+                            ],
+                            "uri": "origin/6649/8382300936",
+                            "height": 24
+                        },
+                        "night": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                }
+                            ],
+                            "uri": "origin/6653/7036384588",
+                            "height": 24
+                        }
+                    },
+                    "url": "sslocal://message",
+                    "text": "消息通知",
+                    "key": "msg_notification",
+                    "tip_new": 0
+                }
+            ],
+            [
+                {
+                    "grey_text": "邀请好友得200元现金奖励",
+                    "icons": {
+                        "day": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                }
+                            ],
+                            "uri": "origin/6649/8382300936",
+                            "height": 24
+                        },
+                        "night": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                }
+                            ],
+                            "uri": "origin/6653/7036384588",
+                            "height": 24
+                        }
+                    },
+                    "url": "sslocal://webview?url=http://lf.snssdk.com/2/wap/tt_mall/&bounce_disable=1&hide_bar=1&title=头条商城",
+                    "text": "头条商城",
+                    "key": "mall",
+                    "tip_new": 0
+                },
+                {
+                    "grey_text": "新人领188元红包",
+                    "icons": {
+                        "day": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                }
+                            ],
+                            "uri": "origin/6649/8382300936",
+                            "height": 24
+                        },
+                        "night": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                }
+                            ],
+                            "uri": "origin/6653/7036384588",
+                            "height": 24
+                        }
+                    },
+                    "url": "sslocal://jdkepler?keplerType=4&url=https://union-click.jd.com/jdc?e=0&p=AyIHVCtaJQMiQwpDBUoyS0IQWhkeHAxeUQQHCllHGAdFBwtSQEINXA8LAmt6EkwwSkAWWwMePXBqVWUocwFXShFZBXNfC1pNUgFSRExHTlpbWQJLREtTBU5XSlwicj5iUklRF2cwAQMXVmAGMUJaTFRsd1kXaxcFFwJSGV0SBSIFVx9bFwUSDlEraxUHIkw7GmsSAxcGUBtSEgsiB1ASWRAAEg5dGlMVAyIFVysATV1RXxBPB0VafFULR2slMiI%3D&t=W1dCFFlQCxxLA0pHRE5XDVULR0VFUFdfEk9FFXtvQAJwBFcGTlFQfT59RXB6PUEZXQFMVz0fRU1dR1McBAJQXk8JF0IFU1tGVwAXBEs%3D&kepler-customerInfo=tt_channel_type_2&app_key=8bd51f8e450d443bafe9c364721f194a&is_temai=1&type=kepler",
+                    "text": "京东特供",
+                    "key": "jd",
+                    "tip_new": 0
+                }
+            ],
+            [
+                {
+                    "grey_text": "",
+                    "icons": {
+                        "day": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                }
+                            ],
+                            "uri": "origin/6649/8382300936",
+                            "height": 24
+                        },
+                        "night": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                }
+                            ],
+                            "uri": "origin/6653/7036384588",
+                            "height": 24
+                        }
+                    },
+                    "url": "sslocal://gossip?url=http://i.snssdk.com/2/wap/broke/?client_forum_type=f2&hide_more=1&fid=4534794731&cid=6216118333691922945",
+                    "text": "我要爆料",
+                    "key": "gossip",
+                    "tip_new": 0
+                },
+                {
+                    "grey_text": "",
+                    "icons": {
+                        "day": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                }
+                            ],
+                            "uri": "origin/6649/8382300936",
+                            "height": 24
+                        },
+                        "night": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                }
+                            ],
+                            "uri": "origin/6653/7036384588",
+                            "height": 24
+                        }
+                    },
+                    "url": "sslocal://feedback",
+                    "text": "用户反馈",
+                    "key": "feedback",
+                    "tip_new": 0
+                },
+                {
+                    "grey_text": "",
+                    "icons": {
+                        "day": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6649/8382300936"
+                                }
+                            ],
+                            "uri": "origin/6649/8382300936",
+                            "height": 24
+                        },
+                        "night": {
+                            "width": 24,
+                            "url_list": [
+                                {
+                                    "url": "http://p1.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                },
+                                {
+                                    "url": "http://pb3.pstatp.com/origin/6653/7036384588"
+                                }
+                            ],
+                            "uri": "origin/6653/7036384588",
+                            "height": 24
+                        }
+                    },
+                    "url": "sslocal://more",
+                    "text": "系统设置",
+                    "key": "config",
+                    "tip_new": 0
+                }
+            ]
+        ]
+    }
+}
